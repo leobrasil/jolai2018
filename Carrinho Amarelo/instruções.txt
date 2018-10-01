@@ -1,0 +1,5 @@
+-----------------------------------------------Instruções do jogo ----------------------------------------------------------------
+
+O Jogo consiste em  desviar dos carros amarelos. A movimentação é dada a partir das setas de navegação, o jogador tem apenas uma
+vida e a pontuação é calculada com base no tempo de vida do jogador. Quando o jogador perde é possível escolher reiniciar na mesma
+dificuldade, voltar para o menu ou sair do jogo. 
