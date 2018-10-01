@@ -1,0 +1,8 @@
+Esta pasta contem os conteudos MINIMOS para rodar o jogo. Deve ser alterada COM AVISO ao grupo
+
+
+Aqui é onde os códigos devem funcionar JUNTOS
+
+BAIXE SEMPRE A PASTA COMPLETA PARA TRABALHAR!
+
+Sempre que inserir um modulo, insira-o Aqui
